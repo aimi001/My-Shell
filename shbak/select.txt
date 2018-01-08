@@ -1,0 +1,12 @@
+select * from cb_loan_acctccamrt         ;
+select * from cb_loan_acctccconsume      ;
+select * from cb_loan_acctccconsume      ;
+select * from cb_loan_acctinthist        ;
+select * from cb_loan_loancreatedisbregg ;
+select * from cb_loan_acctloan           ;
+select * from cb_loan_acctloan           ;
+select * from cb_loan_acctloan           ;
+select * from cb_loan_acctrcvb           ;
+select * from cb_loan_acctamortsched     ;
+select * from cb_loan_acctamortscheditem ;
+select * from cb_loan_loancreatedisbreg  ;
